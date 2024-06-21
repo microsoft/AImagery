@@ -2,12 +2,12 @@
 
 AImagery is an AI-powered multisensory relaxation system designed to reduce anxiety by providing personalized immersive experiences. The system uses AI to create guided imagery based on individual preferences and physiological feedback, incorporating elements like auditory :ear: and olfactory stimuli :nose:. In a study with 32 participants, AImagery demonstrated significant anxiety reduction in those with moderate to high anxiety levels. The system takes user inputs such as heart rate :anatomical_heart:, self-reported mood :slightly_smiling_face:, and preferred scenery:desert_island:, and generates a personalized relaxation story, complemented by calming scents and sounds. The output is a tailored multisensory experience that aims to enhance relaxation and reduce stress.
 
-
-
-
 ## Building and Configuration
 
-This is a Unity project developed in [Unity Editor 2021.3.11f1](https://unity3d.com/unity/whats-new/2021.3.11). Please see [BUILDING.md](BUILDING.md) for instructions.
+This is a Unity project developed using the [Unity Editor 2021.3.11f1](https://unity3d.com/unity/whats-new/2021.3.11). Please see [BUILDING.md](BUILDING.md) for instructions.
+
+![screencapture](https://github.com/microsoft/AImagery/assets/33366055/7e54ab9b-c738-416e-865c-c0953539bb13)
+
 
 ## :exclamation:Safety and Red-Teaming ##
 We collaborated with the AI Red Team at Microsoft to assess safety risks posed by AImagery in both average and adversarial user scenarios. The user study was conducted in July 2023, thus the model we had access was an older GA model (gpt-4-32k), with 32,768 output tokens, with training data (up to) Sep 2021. The prompts generated at that time were all safe and supervised in real-time by the experimenter, who was at control to stop the experience at any time. The system was re-evaluated on June 2024 from the responsible AI perspective using the OpenAI model GPT-4-Turbo to ensure it doesn't generate harmful content ensuring the safety of users. The assessment was done in predetermined risk categories (violence, self-harm, and sexual content) with automated scoring followed by thorough manual reviews of the model responses. The results with other models may vary.
