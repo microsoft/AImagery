@@ -1,0 +1,38 @@
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="en-US">
+  <voice name="en-US-JaneNeural">
+    <mstts:silence type="Sentenceboundary" value="5000ms" />
+    <mstts:express-as style="whispering" styledegree="2">
+      <prosody rate="slow">
+        <textAI>As you walk along the soft, powdery sand of the beach, the gentle warmth of the setting sun wraps around you like a comforting blanket. The sky is painted with hues of orange, pink, and purple, creating a breathtaking canvas that seems to stretch infinitely. You take a deep breath, and the soothing scent of lavender fills your lungs, calming your mind and soul. The rhythmic sound of the waves gently crashing against the shore harmonizes with the distant calls of seagulls, creating a symphony of nature's beauty.
+
+With each step, you feel the sand beneath your feet, cool and soft, molding perfectly to your shape. The cool breeze caresses your skin, carrying with it the delicate scent of lavender, mixing with the salty tang of the sea air. You feel a profound sense of peace and happiness wash over you, as if the beach itself is embracing you in a warm hug.
+
+You find a comfortable spot near the water's edge and sit down, allowing the gentle waves to lap at your toes. The sensation is soothing, and you close your eyes, letting the natural sounds around you lull you into a state of deep relaxation. The waves continue their rhythmic dance, each one a gentle reminder to breathe deeply and let go of any lingering tension.
+
+As you sit there, you notice the sky gradually transitioning from vibrant colors to the deep blues and purples of twilight. The first stars begin to twinkle above, like tiny diamonds scattered across the vast expanse of the sky. The sound of the waves becomes a gentle lullaby, each crest and trough a reminder of the ebb and flow of life itself.
+
+You lie back on the sand, feeling its coolness against your skin, and look up at the starry sky. The lavender scent remains ever-present, a soft, fragrant whisper in the air. You feel your body sinking into the sand, supported and cradled by its embrace. Your breathing slows, matching the rhythm of the ocean, and your heart beats steadily, a calm and contented cadence.
+
+With each inhale, you draw in the tranquility of this moment, and with each exhale, you release any remaining worries or stress. The waves continue their soothing song, a constant, gentle presence that anchors you to this serene place. The lavender scent weaves through your senses, grounding you further in this peaceful state.
+
+In the distance, you hear the faint rustling of palm leaves swaying in the breeze, adding another layer to the symphony of relaxation. The world around you fades away, leaving only the sounds of nature and the comforting scent of lavender. You feel a deep connection to this place, as if the beach itself is a sanctuary created just for you.
+
+As you drift closer to sleep, the sounds of the waves, the calls of the seagulls, and the rustling palms blend into a harmonious melody, wrapping around you like a soft blanket. The lavender scent continues to soothe your mind, its calming presence a gentle guide into the realm of dreams.
+
+Your thoughts become lighter, drifting like clouds across the night sky. You feel a sense of weightlessness, as if you are floating on the surface of the water, gently rocked by the waves. The beach, the stars, the lavender scent—all of it merges into a single, blissful experience, carrying you deeper into relaxation.
+
+You are at peace, completely relaxed, and ready for a restful sleep. The sounds of the beach and the scent of lavender will remain with you, a comforting presence that will guide you through the night and into a world of serene dreams.]</textAI>
+      </prosody>
+    </mstts:express-as>
+  </voice>
+</speak>
+<!--<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="en-US">
+  <voice name="es-ES-EstrellaNeural">
+    <mstts:silence type="Sentenceboundary" value="3000ms" />
+    <prosody rate="-19%" pitch="0%">
+      <textAI>
+      </textAI>
+    </prosody>
+  </voice>
+</speak>
+Spanish Demo -->
