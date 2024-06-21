@@ -27,8 +27,9 @@ This is a Unity project developed in [Unity Editor 2021.3.11f1](https://unity3d.
 
 ## Biofeedback
 If you do not have the heart rate sensor you can simulate the sound of a heart beating at the desired pace by checking the box "FakeHR" and changing the Fake HR Value in the Inspector:  
+![image (2)](https://github.com/microsoft/AImagery/assets/33366055/e4b12aae-13f9-473b-a9ac-da5eb00396fa)
 
-   ![image (2)](https://github.com/judithamores_microsoft/AImagery/assets/120976911/2eb8600c-9312-439f-adeb-3eb8a4592682)
+
 
 If using Mionix Naos QG Mouse (only works on Windows):
 
